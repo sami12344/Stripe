@@ -1,7 +1,9 @@
 <img src="https://github.com/sami12344/Stripe/assets/77746252/7682e280-00dd-4cb4-a0b7-20f9722e5a24" width="100%"/>
 
 <h1 align="center">Stripe</h1>
-<p align="center>Stripe is a widely-used payment processing platform, enabling secure online transactions, subscriptions, and easy integration for businesses.</p>
+
+<p align="center">Stripe is a widely-used payment processing platform, enabling secure online transactions, subscriptions, and easy integration for businesses.</p>
+   
 ## Getting Started
 
 Follow the steps below to get the project up and running:
